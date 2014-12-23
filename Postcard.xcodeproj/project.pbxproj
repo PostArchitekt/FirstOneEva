@@ -13,6 +13,8 @@
 		2060AE381A48B378002D56F1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2060AE371A48B378002D56F1 /* Images.xcassets */; };
 		2060AE3B1A48B378002D56F1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2060AE391A48B378002D56F1 /* LaunchScreen.xib */; };
 		2060AE471A48B378002D56F1 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2060AE461A48B378002D56F1 /* PostcardTests.swift */; };
+		2060AE511A48C7D9002D56F1 /* SquiginOnBez10.png in Resources */ = {isa = PBXBuildFile; fileRef = 2060AE501A48C7D9002D56F1 /* SquiginOnBez10.png */; };
+		2060AE531A48C84E002D56F1 /* SFStairs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2060AE521A48C84E002D56F1 /* SFStairs.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		2060AE401A48B378002D56F1 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2060AE451A48B378002D56F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2060AE461A48B378002D56F1 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		2060AE501A48C7D9002D56F1 /* SquiginOnBez10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SquiginOnBez10.png; sourceTree = "<group>"; };
+		2060AE521A48C84E002D56F1 /* SFStairs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SFStairs.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		2060AE2E1A48B378002D56F1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2060AE521A48C84E002D56F1 /* SFStairs.jpg */,
+				2060AE501A48C7D9002D56F1 /* SquiginOnBez10.png */,
 				2060AE2F1A48B378002D56F1 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,8 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2060AE511A48C7D9002D56F1 /* SquiginOnBez10.png in Resources */,
 				2060AE361A48B378002D56F1 /* Main.storyboard in Resources */,
 				2060AE3B1A48B378002D56F1 /* LaunchScreen.xib in Resources */,
+				2060AE531A48C84E002D56F1 /* SFStairs.jpg in Resources */,
 				2060AE381A48B378002D56F1 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
